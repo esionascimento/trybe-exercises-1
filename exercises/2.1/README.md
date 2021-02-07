@@ -1,0 +1,1 @@
+Através desse exercício realizei a instação e configuração do Git no meu computador; salvei o projeto no repositório Git local; controlei as alterações e versões dos arquivos; e por fim, enviei o projeto para o repositório remoto do GitHub.
