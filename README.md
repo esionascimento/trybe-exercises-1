@@ -1,0 +1,1 @@
+Este é o meu repositório de exercícios da Trybe. Ao decorrer do curso serão abordados fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
