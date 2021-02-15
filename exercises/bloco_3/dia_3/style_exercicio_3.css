@@ -1,4 +1,5 @@
-h1, p {
+h1,
+p {
     text-align: center;
 }
 
@@ -7,9 +8,10 @@ li:hover {
 }
 
 li:active {
-    color:rgb(7, 145, 0)
+    color: rgb(7, 145, 0)
 }
 
-ol, ul {
+ol,
+ul {
     list-style: none;
 }
