@@ -1,3 +1,6 @@
-Exercício realizado na Introdução ao HTML e CSS.
-Dia_1 - HTML Estruturas de Página;
-Dia_2 - Primeiros passos em CSS.
+# Exercícios realizados na Introdução ao HTML e CSS
+
+* Estruturas de página
+* Primeiros passos em CSS
+* Seletores e posicionamento
+* HTML Semântico
